@@ -1,0 +1,15 @@
+normalisasi di sken2
+tambahkan alasan pakai hyper parameter tuning
+tambahkan feature selection
+link gabole berwarna
+dataset tulis judul dan platform
+tambahkan indeks table rumus dan gambar
+penjelasan teori di taruh di bab 2
+tambahkan grafik perbedaan
+analisis dan hasil itu berisi pembahasan mendalam atas pembahasan
+seperti curhat, apa yang kamu lakukan, dan menurut kamu kenapa hasilnya seperti itu
+tambahkan skenario untuk feature selection
+konfirmasi table state of the art
+saran analisis true positif mana yang harus di tingkatin / turunin
+code yang dicantumkan itu psedocode nya aja. karena code itu HAKI kalian, dan jangan ss
+tambahkan grafik + tambel perbandingan dan alasan parameter tunning yang dilakukan
